@@ -1,6 +1,4 @@
-Here's the content you provided formatted in Markdown:
 
-```markdown
 # Recipe Book Website 🍽️
 
 This repository contains the source code and files for a Recipe Book Website. This website is designed to help users discover, share, and explore a wide variety of recipes. Whether you're a seasoned chef or a beginner in the kitchen, this website provides a platform to share and find delicious recipes. 🥗🍔🍰
