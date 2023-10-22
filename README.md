@@ -41,5 +41,4 @@ This repository contains the source code and files for a Recipe Book Website. Th
 We welcome contributions from the open-source community to make this recipe book website even better. If you'd like to contribute and enhance the website, please feel free to make changes to the HTML, CSS, and JavaScript files. You can submit your contributions via GitHub by creating a pull request. 🚀🤝
 ```
 
-You can paste this Markdown content into your README file in GitHub, and it should format nicely.
 
